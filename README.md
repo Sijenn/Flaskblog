@@ -14,11 +14,11 @@ A user can select any of the categories from the navbar to view the blogs on the
 ##  User Stories
 1. As a user one can create blogs after sign up and sign in.
 2. As a user one can view, updtate and comment on blog posts
-3. As a user one can be alerted when a new post is made by joining a subscription.
-4. As a writer one can sign in to the blog.
-5. As a writer one can create a blog from the application.
-6. As a writer one can delete comments that they find insulting or degrading.
-7. As a writer one can update or delete blogs they have created.
+
+3. As a writer one can sign in to the blog.
+4. As a writer one can create a blog from the application.
+5. As a writer one can delete comments that they find insulting or degrading.
+6. As a writer one can update or delete blogs they have created.
 
 
 ##  Behavior Driven Development
@@ -28,16 +28,16 @@ A user can select any of the categories from the navbar to view the blogs on the
       <th>Input</th> 
       <th>Output</th>   
     </tr>
-    <tr>
+    <!-- <tr>
         <td>Displaying various blog categories</td>
         <td>Click on a category</td>
         <td>The user lands to a page with several blogs on that category</td>
-    </tr>
-    <tr>
+    </tr> -->
+    <!-- <tr>
         <td>Subscribe</td>
         <td>User fills the subscribe form</td>
         <td>Redirects user to the home page to view posted blogs</td>
-    </tr>
+    </tr> -->
     <tr>
         <td>Sign up</td>
         <td>User fills the sign up form</td>
@@ -53,11 +53,11 @@ A user can select any of the categories from the navbar to view the blogs on the
         <td>The user clicks on the Add blog post button</td>
         <td>Redirects the user to the text area where they can add title then create their blog</td>
     </tr>
-    <tr>
+    <!-- <tr>
         <td>View recent blog posts</td>
         <td>The user scrolls down to the most recent blogs posted if any</td>
         <td>User sees posts with the options of update, comment on and delete post</td>
-    </tr>
+    </tr> -->
     <tr>
         <td>View profile</td>
         <td>Click on the user's name</td>
