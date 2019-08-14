@@ -4,12 +4,6 @@
 
 The Blog web application is meant for users to create blogs by signing up, be able to view other blogs, delete, update and view comments on those blogs.
 
-1. Health blogs
-2. Educatinal blogs
-3. Scientific blogs
-4. Technology blogs
-
-A user can select any of the categories from the navbar to view the blogs on these categories
 
 ##  User Stories
 1. As a user one can create blogs after sign up and sign in.
@@ -74,6 +68,9 @@ This web application requires the following software tools to operate
 -virtualenv
 -A text  Editor
 -SQLALCHEMY/Database
+
+## Project live site
+https://jenn-blog.herokuapp.com/
 
 
 ## Getting Started
